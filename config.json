@@ -1,0 +1,17 @@
+{
+  "server_port": "5002",
+  "db": {
+    "name": "randomPic",
+    "connection_string": "mongodb://localhost:27017/randomPic",
+    "url_collection": "urls"
+  },
+  "print_to_slack": true,
+  "slack_channels": [
+    "G1A6X4G03",
+    "C1RHSBUR1"
+  ],
+  "categories": [
+    "NIotD",
+    "spaceporn"
+  ]
+}
